@@ -1,5 +1,8 @@
 # Django API 
 
+##### Postman Requests collection link: 
+[URL](https://go.postman.co/workspace/My-Workspace~60ee7954-5627-4d70-8dc5-c9e4b31d61ae/collection/13905733-02816b2d-92df-4248-ad82-d0e7e90dc174)
+
 
 ##### End point & json for adding advisor:
 
